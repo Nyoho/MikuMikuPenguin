@@ -4,7 +4,7 @@
 #include <fstream>
 #include <sstream>
 
-#include <SOIL/SOIL.h>
+#include <SOIL.h>
 //#include <FreeImage.h>
 
 #include "texthandle.h"
